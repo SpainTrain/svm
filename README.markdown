@@ -47,7 +47,7 @@ For full commands and more more usage examples:
 ## Alternatives
 
 * **sbaz** - the [Scala Bazaar System](http://www.scala-lang.org/node/93) managed 3rd party libraries, but can also upgrade your Scala install
-* **sbt** - [Simple Build Tool](http://code.google.com/p/simple-build-tool/) can [cross build](http://code.google.com/p/simple-build-tool/wiki/CrossBuild) your project to multiple Scala versions
+* **sbt** - [Simple Build Tool](https://github.com/sbt/sbt/) can [cross build](https://www.scala-sbt.org/1.x/docs/Cross-Build.html) your project to multiple Scala versions
 
 ## Attribution
 
